@@ -1,0 +1,15 @@
+body {
+    max-width: 1920px;
+    margin: auto;
+}
+
+
+
+/*footer*/
+footer {
+    height: 205px;
+    background-color: #273d50;
+}
+footer p {
+    text-transform: uppercase;
+}
