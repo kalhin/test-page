@@ -7,7 +7,43 @@
     position: absolute;
     top: 0;
     display: grid;
-    grid-template-rows: auto
+    grid-template-rows: auto;
+}
+.slogan:first-child {
+    color: white;
+}
+.slogan h1 {
+    font-size: 32px;
+    color: #44a09b;
+}
+.slogan p {
+    font-size: 62px;
+}
+.button {
+    background-color: white;
+    height: 210px;
+    max-width: 830px;
+    border-radius: 0 105px 105px 0;
+}
+.button p {
+    color: #ff8141;
+    font-size:28px;
+}
+button {
+    height: 66px;
+    width: 494px;
+    border-radius: 33px;
+    background-color: #F27935;
+    color: white;
+    font-size: 25px;
+    border-bottom-width: 0px;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+}
+.scroll p {
+    color: white;
+    font-size: 16px;
 }
 
 /*main*/
