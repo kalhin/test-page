@@ -1,5 +1,5 @@
 @font-face {
-    src: url(/fonts/MyriadProRegular/MyriadProRegular.ttf);
+    src: url(fonts/MyriadProRegular/MyriadProRegular.ttf);
     font-family: MyriadProRegular;
 }
 
@@ -135,11 +135,11 @@ body main {
 .ul-list ul {
     font-size: 22px;
     color: #575656;
-    list-style-image: url(/img/arrow.png);
+    list-style-image: url(img/arrow.png);
 }
 
 li:last-of-type {
-    list-style-image: url(/img/heart.png);
+    list-style-image: url(img/heart.png);
     margin-top: 60px;
 }
 
